@@ -37,4 +37,4 @@ Quite a number of people on the Discord / YouTube comments wanted this to be rel
   Please don't use this code just to skid. I released this to show how I pulled off some of the tricks seen in the video. 
   <br>
   <br>
-  If you have an intrest in coding Minecraft Clients and haven't already, [join the Support server](https://discord.gg/M3PAyyy)!
+  If you have an interest in coding Minecraft Clients and haven't already, [join the Support server](https://discord.gg/M3PAyyy)!
